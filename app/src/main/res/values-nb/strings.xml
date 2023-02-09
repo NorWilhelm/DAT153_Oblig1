@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navn-app</string>
+    <string name="front_text">Velkommen til denne applikasjonen!</string>
+    <string name="toNameList">Velg navn</string>
+    <string name="toImageGallery">Velg bilde</string>
+    <string name="toLearningMode">Læringsmodus</string>
+    <string name="guessName">Gjett navn</string>
+    <string name="guessButton">Gjett!</string>
+    <string name="activity_learning">Læringsmodus</string>
+    <string name="activity_choose_name">Velg navn</string>
+    <string name="activity_choose_picture">Velg bilde</string>
+    <string name="activity_add_name">Legg til navn til bildet</string>
+    <string name="score">Poengsum: %1$d/%2$d</string>
+    <string name="photo">Legg til person</string>
+    <string name="choose_name">Navn</string>
+    <string name="choose_name_button">Lagre</string>
+    <string name="camera_action">Kamera</string>
+    <string name="last_score">Siste poengsum: %1$d/%2$d</string>
+</resources>

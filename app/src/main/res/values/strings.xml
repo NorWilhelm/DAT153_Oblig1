@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Name-App</string>
+    <string name="front_text">Welcome to this application!</string>
+    <string name="toNameList">Choose name</string>
+    <string name="toImageGallery">Choose picture</string>
+    <string name="toLearningMode">Learning mode</string>
+    <string name="guessName">Guess Name</string>
+    <string name="guessButton">Guess!</string>
+    <string name="activity_learning">Learning mode</string>
+    <string name="activity_choose_name">Choose name</string>
+    <string name="activity_choose_picture">Choose picture</string>
+    <string name="activity_add_name">Add name to picture</string>
+    <string name="score">Score: %1$d/%2$d</string>
+    <string name="photo">Add person</string>
+    <string name="choose_name">Name</string>
+    <string name="choose_name_button">Save</string>
+    <string name="camera_action">Camera</string>
+    <string name="last_score">Most recent score: %1$d/%2$d</string>
+</resources>
+
